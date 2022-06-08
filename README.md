@@ -39,14 +39,14 @@ I'm an enthusiast in the area of ​​web development, I'm thirsty to learn sev
 </p>
 
 ## Statics
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=giovanics187&theme=react)
-![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanics187&layout=compact&hide_border=true&langs_count=10&theme=react)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=giovani187&theme=react)
+![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=giovani187&layout=compact&hide_border=true&langs_count=10&theme=react)
 
 <p align="center"> 
 
  ## Total visits :chart_with_upwards_trend: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/giovanics187/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/giovani187/count.svg" />
  </p>
 
 </p>
